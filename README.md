@@ -4,6 +4,7 @@
 > ### 👉 [https://muse798.com](https://muse798.com)
 > Gemini Pro 24 个月代充只要 **¥28.80**（官方约 ¥145/月），支付宝付款，
 > 人工交付，全程不索要你的账号密码。店主 QQ：**1006025461**
+> Telegram 频道：[t.me/ObsidianAI798](https://t.me/ObsidianAI798)（补货 / 上新第一时间通知）
 
 ---
 
@@ -58,3 +59,4 @@
 
 **买东西去这里 👉 [曜石 AI · OBSIDIAN（muse798.com）](https://muse798.com)**
 **咨询 QQ：1006025461**
+**Telegram 频道：[t.me/ObsidianAI798](https://t.me/ObsidianAI798)**
