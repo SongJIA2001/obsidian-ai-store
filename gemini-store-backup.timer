@@ -1,0 +1,11 @@
+[Unit]
+Description=Daily backup of gemini-store database
+
+[Timer]
+OnCalendar=daily
+RandomizedDelaySec=600
+Persistent=true
+Unit=gemini-store-backup.service
+
+[Install]
+WantedBy=timers.target

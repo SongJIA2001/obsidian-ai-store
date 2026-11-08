@@ -1,0 +1,8 @@
+[Unit]
+Description=Backup gemini-store SQLite database (store.db snapshot)
+After=network.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/opt/gemini-store
+ExecStart=/opt/gemini-store/venv/bin/python /opt/gemini-store/backup_db.py
